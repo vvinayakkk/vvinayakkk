@@ -1,3 +1,4 @@
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=header)
 <h1 align="center">Hi 👋, I'm Vinayak Bhatia</h1>
 <h3 align="center">A sophomore 💻 pursuing B.Tech in CSE-AIML 🎓 from Sadar Patel Institute of Technology 🏛. I have a passion for exploring new technologies and applying them to solve real-life problems ✨. I'm currently working on my Machine Learning and Web Development Skills 🕸️.</h3>
 
@@ -90,3 +91,4 @@
     </td>
   </tr>
 </table>
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer)
