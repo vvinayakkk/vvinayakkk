@@ -91,4 +91,5 @@
     </td>
   </tr>
 </table>
+
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer)
