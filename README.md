@@ -60,6 +60,9 @@
         <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
           <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
         </a>
+        <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+          <img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-955x1024-hd4xzbqj.png" alt="seaborn" width="40" height="40"/>
+        </a>
       </p>
       <h4 align="left">Frameworks and Libraries</h4>
       <p align="left">
@@ -77,14 +80,18 @@
       <p align="left">
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-        </a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+         </a>
+         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-        </a>
-        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+         </a>
+         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
         </a>
-      </p>
+          <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUmnFYeOmmAlNV9_ZTu5cYgS2L55Q1pt9QyA&s" alt="sqlite" width="40" height="40"/>
+        </a>
+        
+  </p>
       <h4 align="left">Software and Tools</h4>
       <p align="left" style="display: flex; gap: 20px;">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -95,15 +102,15 @@
         </a>
         <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
           <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_logo..png" alt="Canva" width="40" height="40"/>
-        </a>
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-        </a>
-      </p>
-    </td>
-    <td>
-      <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="animated image" width="400" height="400"/>
-    </td>
+  </a>
+   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+   </a>
+  </p>
+  </td>
+  <td>
+   <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="animated image" width="400" height="400"/>
+  </td>
   </tr>
 </table>
 
