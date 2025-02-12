@@ -3,7 +3,7 @@
  💫 About Me:
 AI enthusiast and student at Sardar Patel Institute of Technology, passionate about developing innovative machine learning solutions. Experienced in computer vision, natural language processing, LLMs and transformers<br>
 
-## 🏆 Achievements
+## 🏆 Hackathon Achievements
 
 - 🥇 **1st Place** at IIIT Nagpur Genathon 2.0 (National Level)
 - 🥈 **Runners-Up** at AIQuest Hackathon (IIT Bombay Techfest '24)
@@ -14,6 +14,11 @@ AI enthusiast and student at Sardar Patel Institute of Technology, passionate ab
 - 💪 **Finalist** in Smart India Hackathon for Alumni Connect
 - 🥇 **1st Place** at SPIT Hackathon (AIML Domain)
 - 🥈 **2nd Place** at Datathon 5.0 (Generative AI Track, KJSCE)
+- 🏆 **5th Place** at Technovate Hack at SPIT College 
+- 📈 **AIR 101** at Amazon ML Challenge 2024 
+- 📈 **6th Place** at VCET Hackathon 2024
+- 💫 **Top 28 Rank** at M# Manipal Hackathon 2024
+  
 
 ## 🚀 Tech Stack
 
