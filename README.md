@@ -3,6 +3,19 @@
  💫 About Me:
 AI enthusiast and student at Sardar Patel Institute of Technology, passionate about developing innovative machine learning solutions. Experienced in computer vision, natural language processing, LLMs and transformers<br>
 
+## 🏆 Achievements
+
+- 🥇 **1st Place** at IIIT Nagpur Genathon 2.0 (National Level)
+- 🥈 **Runners-Up** at AIQuest Hackathon (IIT Bombay Techfest '24)
+- 🥈 **Runners-Up** at Classifi Hackathon (IIT Bombay Techfest '24)
+- 🥉 **3rd Place** in MLFiesta Hackathon (IIIT Bangalore)
+- 🥉 **3rd Place** in Wall Streets Analytics Challenge (BITS PILANI HYDERABAD)
+- 📈 **World Rank 6** in Zelestra X AWS ML Ascend Challenge
+- 💪 **Finalist** in Smart India Hackathon for Alumni Connect
+- 🥇 **1st Place** at SPIT Hackathon (AIML Domain)
+- 🥈 **2nd Place** at Datathon 5.0 (Generative AI Track, KJSCE)
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-bhatia-836556230/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@UjjwalPardeshi](https://medium.com/@ntpjc2vinayak)) 
