@@ -15,6 +15,29 @@ AI enthusiast and student at Sardar Patel Institute of Technology, passionate ab
 - 🥇 **1st Place** at SPIT Hackathon (AIML Domain)
 - 🥈 **2nd Place** at Datathon 5.0 (Generative AI Track, KJSCE)
 
+## 🚀 Tech Stack
+
+| 💻 Programming Languages | 🧠 AI & Machine Learning  | 🤖 AI Agents & Automation |
+|--------------------------|-------------------------|--------------------------|
+| 🔹 C                     | 🤖 **LLMs**: GPT, LLaMA, Mixtral | ⚡ **CrewAI, AutoGen, LangGraph** |
+| 🔹 C++                   | 🔬 **Fine-Tuning**: LoRA, RLHF, DPO | 🤝 **AI-Orchestrated Workflows** |
+| 🔹 Python                | 🔥 **Deep Learning**: TensorFlow, PyTorch | 🧠 **Cognitive AI, STRIPS, PDDL** |
+| 🔹 Java                  | 📝 **Text Gen**: RAG, LangChain | ⚙️ **AutoGPT, BabyAGI** |
+| 🔹 JavaScript            | 🎤 **Audio AI**: Whisper, Bark | 🚀 **Reinforcement Learning (PPO, DQN)** |
+
+---
+
+| 🎯 **Computer Vision**   | 📊 **Data Science & NLP** | 🛠️ **Databases & Infra** |
+|--------------------------|--------------------------|--------------------------|
+| 🕵️‍♂️ **Detection**: YOLO, R-CNN | 📉 **Pandas, NumPy, Seaborn** | 🏛️ **VectorDBs**: FAISS, Pinecone |
+| 🎨 **Segmentation**: SAM, U-Net | 🧠 **NLP**: NER, Sentiment Analysis | 💾 **AstraDB, MongoDB, SQL** |
+| 🎥 **Video Tracking**: SORT, BoT-SORT | ✂️ **Text Summarization** | 🚀 **Langflow, DataStax** |
+
+
+## 🚀 Deployment
+- **MLOps & Model Serving:**  
+  - Docker, FastAPI  
+ 
 
 
 ## 🌐 Socials:
