@@ -1,7 +1,31 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=header)
-<h1 align="center">Hi 👋, I'm Vinayak Bhatia</h1>
- 💫 About Me:
-AI enthusiast and student at Sardar Patel Institute of Technology, passionate about developing innovative machine learning solutions. Experienced in computer vision, natural language processing, LLMs and transformers<br>
+# 👾 Vinayak.io
+
+```shell
+> Initializing AI Systems... ✅  
+> Running Reinforcement Learning Models... ✅  
+> Deploying Autonomous AI Agents... ✅  
+> Fine-tuning LLMs in Real-Time... ✅  
+> Breaking Neural Nets & Rebuilding... 🔄
+```
+## 🧠 SYSTEM IDENTITY
+
+### A rogue AI engineer, not bound by rules—I don’t just build models, I weaponize them for:
+
+- **Automation** 🤖  
+- **Autonomy** 🧬  
+- **Intelligence beyond human logic** 🚀  
+
+### 🔍 CURRENT SYSTEM DIRECTIVES:
+
+✅ **Teaching LLMs to think beyond text** 🤯  
+✅ **Making AI Agents act with real-world autonomy** 🤖  
+✅ **Breaking & rebuilding neural nets for peak efficiency** ⚙️  
+✅ **Designing self-improving RL models that evolve, adapt, and dominate** 🧬  
+
+> System Status: Always Experimenting... ⚡  
+> Current Focus: AI Agents, RL, and pushing the limits of automation  
+> Next Move: Building AI that builds AI 🚀  
 
 ## 🏆 Hackathon Achievements
 
