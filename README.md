@@ -30,10 +30,12 @@
 ## 🏆 Hackathon Achievements
 
 - 🥇 **1st Place** at IIIT Nagpur Genathon 2.0 (National Level)
+- 🥈 **2nd Place** at Logithin 2.0 ( IITB) (National Level)
 - 🥈 **Runners-Up** at AIQuest Hackathon (IIT Bombay Techfest '24)
 - 🥈 **Runners-Up** at Classifi Hackathon (IIT Bombay Techfest '24)
 - 🥉 **3rd Place** in MLFiesta Hackathon (IIIT Bangalore)
 - 🥉 **3rd Place** in Wall Streets Analytics Challenge (BITS PILANI HYDERABAD)
+- 🥇 **1st Place** in Hackanova 5.0 in the AIML Domain 
 - 📈 **World Rank 6** in Zelestra X AWS ML Ascend Challenge
 - 💪 **Finalist** in Smart India Hackathon for Alumni Connect
 - 🥇 **1st Place** at SPIT Hackathon (AIML Domain)
