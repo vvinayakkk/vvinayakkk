@@ -44,6 +44,9 @@
 - 📈 **AIR 101** at Amazon ML Challenge 2024 
 - 📈 **6th Place** at VCET Hackathon 2024
 - 💫 **Top 28 Rank** at M# Manipal Hackathon 2024
+- 🥇 **1st Place** at Code Crafter Hackathon 2.0
+- 🥉 **3rd Place** in Odoo Hackathon Gujarat Vidyapeeth 2025
+- 🥉 **3rd Place** in Technitude Hackathon by SPJAIN School of Global Management
   
 
 ## 🚀 Tech Stack
