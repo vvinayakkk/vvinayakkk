@@ -30,6 +30,8 @@
 ## 🏆 Hackathon Achievements
 
 - 🥇 **1st Place** at IIIT Nagpur Genathon 2.0 (National Level)
+- 🥇 **1st Place** at Airavat AI Hackathon 2025 ( National Level)
+- 🥇 **1st Place** at Level Up Hackathon 2025 by KJSIT College
 - 🥈 **2nd Place** at Logithin 2.0 ( IITB) (National Level)
 - 🥈 **Runners-Up** at AIQuest Hackathon (IIT Bombay Techfest '24)
 - 🥈 **Runners-Up** at Classifi Hackathon (IIT Bombay Techfest '24)
