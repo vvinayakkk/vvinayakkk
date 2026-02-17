@@ -183,12 +183,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vvinayakkk&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&rank_icon=github&card_width=495"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvinayakkk&theme=tokyonight&hide_border=true&layout=compact&card_width=350"/>
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=vvinayakkk&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&rank_icon=github&card_width=495"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvinayakkk&theme=tokyonight&hide_border=true&layout=compact&card_width=350"/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvinayakkk&theme=tokyonight&hide_border=true&card_width=860"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vvinayakkk&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=vvinayakkk&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7"/> -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vvinayakkk&theme=tokyo-night&hide_border=true&area=true&area_color=a855f7"/>
 
@@ -200,7 +200,7 @@
 
 *Built with obsession · 16× Champion · World Rank #6 · All wins intentional.*
 
-<img src="https://visitcount.itsvg.in/api?id=vvinayakkk&label=Profile%20Views&color=6&icon=5&pretty=true"/>
+<!-- <img src="https://visitcount.itsvg.in/api?id=vvinayakkk&label=Profile%20Views&color=6&icon=5&pretty=true"/> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:0f0c29&height=120&section=footer"/>
 
