@@ -1,188 +1,207 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=header)
-# 👾 Vinayak.io
+<div align="center">
 
-```shell
-> Initializing AI Systems... ✅  
-> Running Reinforcement Learning Models... ✅  
-> Deploying Autonomous AI Agents... ✅  
-> Fine-tuning LLMs in Real-Time... ✅  
-> Breaking Neural Nets & Rebuilding... 🔄
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:a855f7,100:06b6d4&height=220&section=header&text=VINAYAK%20BHATIA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20SDE%20%26%20AIML%20Engineer%20%7C%2016×%20Hackathon%20Champion%20%7C%20World%20Rank%20%236&descAlignY=60&descSize=14&descColor=a0a0c0" /> -->
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=🏆+16×+Hackathon+Champion;🌍+World+Rank+%236+—+Zelestra+×+AWS+ML+Ascend;📈+Amazon+ML+Challenge+AIR+60;🤖+Building+AI+Agents+%26+LLM+Systems;🏁+Smart+India+Hackathon+2024+Finalist)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/vinayak-bhatia-836556230/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://medium.com/@ntpjc2vinayak">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+<a href="https://github.com/vvinayakkk">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🏆%20Hackathons%20Won-16-blueviolet?style=flat-square&labelColor=0d0d0d&color=a855f7"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🌍%20World%20Rank-%236%20Global-ff6b6b?style=flat-square&labelColor=0d0d0d&color=ec4899"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📈%20Amazon%20ML-AIR%2060-00d4aa?style=flat-square&labelColor=0d0d0d&color=06b6d4"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🏁%20SIH%202024-Finalist-ffd700?style=flat-square&labelColor=0d0d0d&color=fbbf24"/>
+
+</div>
+
+---
+
+## 🧠 Who Am I?
+
 ```
-## 🧠 SYSTEM IDENTITY
+╔═══════════════════════════════════════════════════════════════╗
+║  $ whoami                                                     ║
+║                                                               ║
+║  > Vinayak Bhatia — SDE & AIML Engineer                      ║
+║  > I don't just build AI. I weaponize intelligence.           ║
+║                                                               ║
+║  $ cat achievements.json                                      ║
+║  {                                                            ║
+║    "hackathons_won"   : 16,                                   ║
+║    "world_rank"       : "#6 (Zelestra × AWS)",                ║
+║    "amazon_ml_rank"   : "AIR 60 (2025) · AIR 101 (2024)",    ║
+║    "iit_bombay_wins"  : 2,                                    ║
+║    "sih_2024"         : "Finalist",                           ║
+║    "corporate_wins"   : ["Media.net", "UST"],                 ║
+║    "mission"          : "Research → Hackathons → Production"  ║
+║  }                                                            ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-### A rogue AI engineer, not bound by rules—I don’t just build models, I weaponize them for:
-
-- **Automation** 🤖  
-- **Autonomy** 🧬  
-- **Intelligence beyond human logic** 🚀  
-
-### 🔍 CURRENT SYSTEM DIRECTIVES:
-
-✅ **Teaching LLMs to think beyond text** 🤯  
-✅ **Making AI Agents act with real-world autonomy** 🤖  
-✅ **Breaking & rebuilding neural nets for peak efficiency** ⚙️  
-✅ **Designing self-improving RL models that evolve, adapt, and dominate** 🧬  
-
-> System Status: Always Experimenting... ⚡  
-> Current Focus: AI Agents, RL, and pushing the limits of automation  
-> Next Move: Building AI that builds AI 🚀  
-
-## 🏆 Hackathon Achievements
-
-- 🥇 **1st Place** at IIIT Nagpur Genathon 2.0 (National Level)
-- 🥇 **1st Place** at Airavat AI Hackathon 2025 ( National Level)
-- 🥇 **1st Place** at Level Up Hackathon 2025 by KJSIT College
-- 🥈 **2nd Place** at Logithin 2.0 ( IITB) (National Level)
-- 🥈 **Runners-Up** at AIQuest Hackathon (IIT Bombay Techfest '24)
-- 🥈 **Runners-Up** at Classifi Hackathon (IIT Bombay Techfest '24)
-- 🥉 **3rd Place** in MLFiesta Hackathon (IIIT Bangalore)
-- 🥉 **3rd Place** in Wall Streets Analytics Challenge (BITS PILANI HYDERABAD)
-- 🥇 **1st Place** in Hackanova 5.0 in the AIML Domain 
-- 📈 **World Rank 6** in Zelestra X AWS ML Ascend Challenge
-- 💪 **Finalist** in Smart India Hackathon for Alumni Connect
-- 🥇 **1st Place** at SPIT Hackathon (AIML Domain)
-- 🥈 **2nd Place** at Datathon 5.0 (Generative AI Track, KJSCE)
-- 🏆 **5th Place** at Technovate Hack at SPIT College 
-- 📈 **AIR 101** at Amazon ML Challenge 2024 
-- 📈 **6th Place** at VCET Hackathon 2024
-- 💫 **Top 28 Rank** at M# Manipal Hackathon 2024
-- 🥇 **1st Place** at Code Crafter Hackathon 2.0
-- 🥉 **3rd Place** in Odoo Hackathon Gujarat Vidyapeeth 2025
-- 🥉 **3rd Place** in Technitude Hackathon by SPJAIN School of Global Management
-  
-
-## 🚀 Tech Stack
-
-| 💻 Programming Languages | 🧠 AI & Machine Learning  | 🤖 AI Agents & Automation |
-|--------------------------|-------------------------|--------------------------|
-| 🔹 C                     | 🤖 **LLMs**: GPT, LLaMA, Mixtral | ⚡ **CrewAI, AutoGen, LangGraph** |
-| 🔹 C++                   | 🔬 **Fine-Tuning**: LoRA, RLHF, DPO | 🤝 **AI-Orchestrated Workflows** |
-| 🔹 Python                | 🔥 **Deep Learning**: TensorFlow, PyTorch | 🧠 **Cognitive AI, STRIPS, PDDL** |
-| 🔹 Java                  | 📝 **Text Gen**: RAG, LangChain | ⚙️ **AutoGPT, BabyAGI** |
-| 🔹 JavaScript            | 🎤 **Audio AI**: Whisper, Bark | 🚀 **Reinforcement Learning (PPO, DQN)** |
+> *"First place is a habit. World-class is a mindset."*
 
 ---
 
-| 🎯 **Computer Vision**   | 📊 **Data Science & NLP** | 🛠️ **Databases & Infra** |
-|--------------------------|--------------------------|--------------------------|
-| 🕵️‍♂️ **Detection**: YOLO, R-CNN | 📉 **Pandas, NumPy, Seaborn** | 🏛️ **VectorDBs**: FAISS, Pinecone |
-| 🎨 **Segmentation**: SAM, U-Net | 🧠 **NLP**: NER, Sentiment Analysis | 💾 **AstraDB, MongoDB, SQL** |
-| 🎥 **Video Tracking**: SORT, BoT-SORT | ✂️ **Text Summarization** | 🚀 **Langflow, DataStax** |
+## 🏆 Hall of Fame
 
+<div align="center">
 
-## 🚀 Deployment
-- **MLOps & Model Serving:**  
-  - Docker, FastAPI  
- 
+### 🥇 First Place Wins
 
+| Competition | Level | Domain |
+|:---|:---:|:---:|
+| 🔥 IIIT Nagpur Genathon 2.0 | 🇮🇳 National | AI/ML |
+| 🔥 Airavat AI Hackathon 2025 | 🇮🇳 National | AI/ML |
+| 🔥 Media.net Hackathon | 🏢 Corporate | Industry |
+| 🔥 Level Up Hackathon 2025 — KJSIT | 🏛️ Institutional | Full Stack + AI |
+| 🔥 SPIT Hackathon — AIML Domain | 🏛️ Institutional | AIML |
+| 🔥 Hackanova 5.0 — AIML Domain | 🏛️ Institutional | AIML |
+| 🔥 Code Crafter Hackathon 2.0 | 🏛️ Institutional | Engineering |
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-bhatia-836556230/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@UjjwalPardeshi](https://medium.com/@ntpjc2vinayak)) 
+### 🥈 Runner-Up Finishes
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/vinayak bhatia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayak bhatia" height="30" width="40" /></a>
-  <a href="https://instagram.com/vvinayakkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vvinayakkk" height="30" width="40" /></a>
-  <a href="https://github.com/vvinayakkk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" alt="vvinayakkk" height="30" width="40" /></a>
-</p>
+| Competition | Level |
+|:---|:---:|
+| Logithon 2.0 — **IIT Bombay** | 🇮🇳 National |
+| AIQuest — **IIT Bombay Techfest 2024** | 🎓 Premier IIT |
+| Classifi — **IIT Bombay Techfest 2024** | 🎓 Premier IIT |
+| Datathon 5.0 GenAI Track — KJSCE | 🏛️ Institutional |
+| UST Hackathon | 🏢 Corporate |
 
+### 🥉 Third Place Finishes
 
-<h3 align="left">Languages and Tools:</h3>
+| Competition | Level |
+|:---|:---:|
+| MLFiesta — **IIIT Bangalore** | 🎓 Premier IIIT |
+| Wall Street Analytics Challenge — **BITS Pilani Hyd** | 🎓 Premier BITS |
+| Odoo Hackathon — Gujarat Vidyapeeth 2025 | 🇮🇳 National |
+| Technitude — SP Jain School of Global Management | 🌍 International |
 
-<table>
-  <tr>
-    <td>
-      <h4 align="left">Programming Languages</h4>
-      <p align="left">
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-        </a>
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-        </a>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-        </a>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-        </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/>
-        </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-        </a>
-        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-        </a>
-        <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-          <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-        </a>
-        <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-          <img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-955x1024-hd4xzbqj.png" alt="tensorflow" width="40" height="40"/>
-        </a>
-      </p>
-      <h4 align="left">Frameworks and Libraries</h4>
-      <p align="left">
-        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-        </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-        </a>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-        </a>
-      </p>
-      <h4 align="left">Cloud Hosting and Database</h4>
-      <p align="left">
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-         </a>
-         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-         </a>
-         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-        </a>
-        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUmnFYeOmmAlNV9_ZTu5cYgS2L55Q1pt9QyA&s" alt="postgresql" width="40" height="40"/>
-        </a>
-      </p>
-      <h4 align="left">Software and Tools</h4>
-      <p align="left" style="display: flex; gap: 20px;">
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-        </a>
-        <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-        </a>
-        <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_logo..png" alt="Canva" width="40" height="40"/>
-        </a>
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-        </a>
-      </p>
-    </td>
-    <td>
-      <img src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="animated image" width="400" height="400"/>
-    </td>
-  </tr>
-</table>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vvinayakkk&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vvinayakkk&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vvinayakkk&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vvinayakkk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vvinayakkk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌍 Global Rankings
+
+<div align="center">
+
+| 🏅 | Competition | Rank | Scope |
+|:---:|:---|:---:|:---:|
+| 🥇 | **Zelestra × AWS ML Ascend Challenge** | **#6** | 🌍 World |
+| 📈 | **Amazon ML Challenge 2025** | **AIR 60** | 🇮🇳 National |
+| 📈 | **Amazon ML Challenge 2024** | **AIR 101** | 🇮🇳 National |
+| 🏁 | **Smart India Hackathon 2024** | **Finalist** | 🇮🇳 National |
+| ⭐ | **Google Hackathon** | **Top 15** | 🏆 Open |
+| ⭐ | **M# Manipal Hackathon 2024** | **Top 28** | 🏆 Open |
+
+</div>
+
+---
+
+## 🧠 Core Domains
+
+<div align="center">
+
+```
+ ┌──────────────────┐  ┌──────────────────┐  ┌──────────────────┐
+ │  🤖 Agentic AI   │  │  📚 LLM Systems   │  │  🎮 RL Systems    │
+ │  Autonomous      │  │  RAG, Fine-tune   │  │  PPO, DQN        │
+ │  Multi-Agent     │  │  RLHF, DPO, LoRA  │  │  Policy Gradient │
+ └──────────────────┘  └──────────────────┘  └──────────────────┘
+ ┌──────────────────┐  ┌──────────────────┐
+ │  👁️ Computer      │  │  🌐 Full-Stack    │
+ │  Vision          │  │  Web & App Dev   │
+ │  YOLO, SAM, UNet │  │  React, Django   │
+ └──────────────────┘  └──────────────────┘
+```
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+`RAG` `LoRA` `RLHF` `DPO` `Whisper` `YOLO` `SAM` `U-Net` `PPO` `DQN`
+
+**AI Agents & LLM Ops**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+`LangGraph` `CrewAI` `AutoGen`
+
+**Full-Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+`FAISS` `Pinecone` `AstraDB`
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vvinayakkk&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&rank_icon=github&card_width=495"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvinayakkk&theme=tokyonight&hide_border=true&layout=compact&card_width=350"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vvinayakkk&theme=tokyonight&hide_border=true&card_width=860"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vvinayakkk&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vvinayakkk&theme=tokyo-night&hide_border=true&area=true&area_color=a855f7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*Built with obsession · 16× Champion · World Rank #6 · All wins intentional.*
+
+<img src="https://visitcount.itsvg.in/api?id=vvinayakkk&label=Profile%20Views&color=6&icon=5&pretty=true"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:0f0c29&height=120&section=footer"/>
+
+</div>
