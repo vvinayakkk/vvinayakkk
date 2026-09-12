@@ -132,7 +132,7 @@ def load_source_image_bytes(fallback_url):
     return requests.get(fallback_url, timeout=20).content
 
 
-def autocrop_to_subject(img, bust_fraction=0.55):
+def autocrop_to_subject(img, bust_fraction=1.0):
     """If the image has an alpha channel, crop tight to the non-transparent
     subject, then trim off the bottom (torso/shoulders) so the character
     budget below is spent mostly on the face, not empty space or fabric.
