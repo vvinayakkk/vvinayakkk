@@ -1,8 +1,10 @@
 <div align="center">
 
-<br/>
+# Vinayak Bhatia
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=%F0%9F%92%BC+SDE+%40+Media.net;%F0%9F%8F%86+17%C3%97+Hackathon+Winner;%F0%9F%A5%88+Google+Solution+Challenge+%E2%80%9926;%F0%9F%8C%8D+World+Rank+%236+%E2%80%94+Zelestra+%C3%97+AWS+ML+Ascend;%F0%9F%93%84+Q1+Journal+%E2%80%94+Intl.+Journal+of+Remote+Sensing;%F0%9F%A4%96+Building+AI+Agents+%26+LLM+Systems)](https://git.io/typing-svg)
+**SDE @ Media.net · AI/ML Engineer · 17× Hackathon Winner**
+
+![Terminal](https://raw.githubusercontent.com/vvinayakkk/gif-terminal/main/output.gif)
 
 <br/>
 
@@ -29,38 +31,6 @@
 <img src="https://img.shields.io/badge/🏁%20SIH%202024-Finalist-38bdf8?style=flat-square&labelColor=0d0d0d&color=38bdf8"/>
 
 </div>
-
----
-
-## 🧠 Who Am I?
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║  $ whoami                                                          ║
-║                                                                    ║
-║  > Vinayak Bhatia — SDE @ Media.net · AI/ML Engineer               ║
-║  > I don't just build AI. I weaponize intelligence.                ║
-║                                                                    ║
-║  $ cat profile.json                                                 ║
-║  {                                                                  ║
-║    "role"            : "SDE @ Media.net",                          ║
-║    "research"        : ["IIT Patna", "SPJIMR"],                    ║
-║    "internship"      : "GenAI Intern @ SPIT",                      ║
-║    "hackathons_won"  : 17,                                          ║
-║    "world_rank"      : "#6 (Zelestra × AWS ML Ascend)",             ║
-║    "amazon_mlss"     : "2025",                                      ║
-║    "amazon_ml_rank"  : "AIR 60 (2025) · AIR 101 (2024)",            ║
-║    "google_solution" : "🥈 Silver — Solution Challenge 2026",        ║
-║    "publications"    : "Q1 Journal — Intl. Journal of Remote        ║
-║                          Sensing (Taylor & Francis) — Accepted",    ║
-║    "sih_2024"        : "Finalist",                                  ║
-║    "corporate_wins"  : ["Media.net", "UST"],                       ║
-║    "mission"         : "Research → Hackathons → Production"         ║
-║  }                                                                  ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-> *"First place is a habit. World-class is a mindset."*
 
 ---
 
