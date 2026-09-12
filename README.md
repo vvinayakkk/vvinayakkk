@@ -8,6 +8,13 @@
 
 <br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vvinayakkk/vvinayakkk/main/profile_card_dark.svg">
+  <img alt="terminal-style profile card" src="https://raw.githubusercontent.com/vvinayakkk/vvinayakkk/main/profile_card_light.svg">
+</picture>
+
+<br/>
+
 <a href="https://www.linkedin.com/in/vinayak-bhatia-836556230/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
