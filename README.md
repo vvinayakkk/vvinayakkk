@@ -39,8 +39,12 @@
 <div align="center">
 
 | Title | Venue | Status |
-|:---|:---:|:---:|
+|:---|:---|:---:|
 | **Hybrid Quantum–Classical Framework for Hyperspectral Image Classification: QAOA-Optimised Band Selection with Spatial-Spectral 3D Convolutional Networks** | *International Journal of Remote Sensing* (Taylor & Francis) — **Q1** | ✅ **Accepted** (Sep 2026) |
+| **DualScope-LSTM: Adaptive Dual-Branch Modeling for Cloud Resource Forecasting** | IEEE — 2025 12th Intl. Conf. on Soft Computing & Machine Intelligence (ISCMI); also accepted to a Taylor & Francis special issue — **Q1** | ✅ Published (IEEE) / Accepted (Q1) |
+| **Saves: A Spatio-Temporal Attention-Based Approach for Video Surveillance** | IEEE — 2025 Intl. Conf. on Image Processing Workshops (ICIPW) | ✅ Published |
+| **VehicleVision Transatron for Fine-Grained Vehicle Classification** | TIPCE Conference, IIT Roorkee 2025 | ✅ Published |
+| **CropNet** | NeurIPS 2026 | 🕓 Submitted |
 
 </div>
 
