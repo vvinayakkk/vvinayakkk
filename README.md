@@ -195,9 +195,18 @@ Research affiliations: **IIT Patna** · **SPJIMR** · GenAI internship at **SPIT
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/vvinayakkk/vvinayakkk/main/metrics.svg" alt="metrics" width="860"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvinayakkk&theme=tokyonight&hide_border=true&card_width=860"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vvinayakkk&theme=tokyo-night&hide_border=true&area=true&area_color=a855f7"/>
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vvinayakkk/vvinayakkk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/vvinayakkk/vvinayakkk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
