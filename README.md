@@ -38,25 +38,60 @@
 
 <div align="center">
 
-| Title | Venue | Status |
-|:---|:---|:---:|
-| **Hybrid Quantum–Classical Framework for Hyperspectral Image Classification: QAOA-Optimised Band Selection with Spatial-Spectral 3D Convolutional Networks** | *International Journal of Remote Sensing* (Taylor & Francis) — **Q1** | ✅ **Accepted** (Sep 2026) |
-| **DualScope-LSTM: Adaptive Dual-Branch Modeling for Cloud Resource Forecasting** | IEEE — 2025 12th Intl. Conf. on Soft Computing & Machine Intelligence (ISCMI); also accepted to a Taylor & Francis special issue — **Q1** | ✅ Published (IEEE) / Accepted (Q1) |
-| **Saves: A Spatio-Temporal Attention-Based Approach for Video Surveillance** | IEEE — 2025 Intl. Conf. on Image Processing Workshops (ICIPW) | ✅ Published |
-| **VehicleVision Transatron for Fine-Grained Vehicle Classification** | TIPCE Conference, IIT Roorkee 2025 | ✅ Published |
-| **CropNet** | NeurIPS 2026 | 🕓 Submitted |
+<img src="https://img.shields.io/badge/Q1_Journal-2-fbbf24?style=for-the-badge&logo=bookstack&logoColor=black"/>
+<img src="https://img.shields.io/badge/IEEE-2-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+<img src="https://img.shields.io/badge/NeurIPS-Submitted-8b5cf6?style=for-the-badge&logo=arxiv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Total-5_Papers-06b6d4?style=for-the-badge"/>
 
 </div>
 
-Research affiliations: **IIT Patna** · **SPJIMR** · GenAI internship at **SPIT**.
+<table>
+<tr><th align="left">Title</th><th align="left">Venue</th><th align="center">Status</th></tr>
+<tr>
+<td><b>Hybrid Quantum–Classical Framework for Hyperspectral Image Classification</b><br/><sub>QAOA-Optimised Band Selection with Spatial-Spectral 3D Convolutional Networks</sub></td>
+<td><i>Intl. Journal of Remote Sensing</i> (Taylor & Francis)<br/><img src="https://img.shields.io/badge/Q1-fbbf24?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Accepted-16a34a?style=flat-square"/><br/><sub>Sep 2026</sub></td>
+</tr>
+<tr>
+<td><b>DualScope-LSTM</b><br/><sub>Adaptive Dual-Branch Modeling for Cloud Resource Forecasting</sub></td>
+<td>IEEE ISCMI 2025 + Taylor & Francis special issue<br/><img src="https://img.shields.io/badge/Q1-fbbf24?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/IEEE-Published-16a34a?style=flat-square"/><br/><img src="https://img.shields.io/badge/Q1-Accepted-16a34a?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>Saves</b><br/><sub>A Spatio-Temporal Attention-Based Approach for Video Surveillance</sub></td>
+<td>IEEE ICIPW 2025</td>
+<td align="center"><img src="https://img.shields.io/badge/Published-16a34a?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>VehicleVision Transatron</b><br/><sub>Fine-Grained Vehicle Classification</sub></td>
+<td>TIPCE Conference, IIT Roorkee 2025</td>
+<td align="center"><img src="https://img.shields.io/badge/Published-16a34a?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>CropNet</b></td>
+<td>NeurIPS 2026</td>
+<td align="center"><img src="https://img.shields.io/badge/Submitted-64748b?style=flat-square"/></td>
+</tr>
+</table>
+
+<sub>Research affiliations: <b>IIT Patna</b> · <b>SPJIMR</b> · GenAI internship at <b>SPIT</b></sub>
 
 ---
 
-## 🏆 Hall of Fame
+## 🏆 Hall of Fame — 17 Hackathons Won
 
 <div align="center">
 
-### 🥇 First Place Wins
+<img src="https://img.shields.io/badge/🥇_First_Place-7-fbbf24?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/🥈_Runner--Up-8-c0c0c0?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/🥉_Notable-4-cd7f32?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/🌍_World_Rank-%236-ec4899?style=for-the-badge&labelColor=1a1a2e"/>
+
+</div>
+
+<details>
+<summary><b>🥇 First Place Wins (7) — click to expand</b></summary>
+<br/>
 
 | Competition | Level | Domain |
 |:---|:---:|:---:|
@@ -68,7 +103,11 @@ Research affiliations: **IIT Patna** · **SPJIMR** · GenAI internship at **SPIT
 | 🔥 SPIT Hackathon 2025 — CSI SPIT | 🏛️ Institutional | AI/ML |
 | 🔥 Genathon 2.0 — **IIIT Nagpur** | 🇮🇳 National | Gen-AI |
 
-### 🥈 Runner-Up Finishes
+</details>
+
+<details>
+<summary><b>🥈 Runner-Up Finishes (8) — click to expand</b></summary>
+<br/>
 
 | Competition | Level |
 |:---|:---:|
@@ -81,7 +120,11 @@ Research affiliations: **IIT Patna** · **SPJIMR** · GenAI internship at **SPIT
 | Odoo × Gujarat Vidyapeeth Hackathon 2025 | 🇮🇳 National |
 | Wall Street Analytics Challenge — **BITS Pilani Hyd** | 🎓 Premier BITS |
 
-### 🥉 Third Place / Notable Finishes
+</details>
+
+<details>
+<summary><b>🥉 Third Place / Notable Finishes (4) — click to expand</b></summary>
+<br/>
 
 | Competition | Level |
 |:---|:---:|
@@ -90,7 +133,7 @@ Research affiliations: **IIT Patna** · **SPJIMR** · GenAI internship at **SPIT
 | M# Hackathon — Manipal Institute of Technology | 🇮🇳 National |
 | Smart India Hackathon 2024 — Top 5, IIT Gandhinagar | 🇮🇳 National |
 
-</div>
+</details>
 
 ---
 
