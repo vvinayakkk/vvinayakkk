@@ -186,11 +186,11 @@
  │  Autonomous      │  │  RAG, Fine-tune   │  │  PPO, DQN        │
  │  Multi-Agent     │  │  RLHF, DPO, LoRA  │  │  Policy Gradient │
  └──────────────────┘  └──────────────────┘  └──────────────────┘
- ┌──────────────────┐  ┌──────────────────┐
- │  👁️ Computer      │  │  🌐 Full-Stack    │
- │  Vision          │  │  Web & App Dev   │
- │  YOLO, SAM, UNet │  │  React, Django   │
- └──────────────────┘  └──────────────────┘
+ ┌──────────────────┐  ┌──────────────────┐  ┌──────────────────┐
+ │  👁️ Computer      │  │  🌐 Full-Stack    │  │  🏗️ System Design │
+ │  Vision          │  │  Web & App Dev   │  │  Distributed Sys  │
+ │  YOLO, SAM, UNet │  │  React, Django   │  │  Scalability, HA  │
+ └──────────────────┘  └──────────────────┘  └──────────────────┘
 ```
 
 </div>
@@ -201,9 +201,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,js,ts,react,nodejs,django,fastapi,docker,kubernetes,terraform,aws,gcp,jenkins,postgres,mongodb,redis,git,github&theme=dark"/>
-
-<sub>`RAG` `LoRA` `RLHF` `DPO` `Whisper` `YOLO` `SAM` `U-Net` `PPO` `DQN` `QAOA` `Quantum ML` · `LangChain` `LangGraph` `CrewAI` `AutoGen` · `FAISS` `Pinecone` `AstraDB` · `FluxCD` `ArgoCD`</sub>
+<img src="https://skillicons.dev/icons?i=python,java,spring,js,ts,react,nodejs,django,fastapi,docker,kubernetes,terraform,aws,gcp,jenkins,githubactions,gitlab,postgres,mongodb,redis,kafka,rabbitmq,grafana,prometheus,git,github&theme=dark&perline=13"/>
 
 </div>
 
