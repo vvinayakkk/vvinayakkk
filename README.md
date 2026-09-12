@@ -234,15 +234,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vvinayakkk/vvinayakkk/main/metrics.svg" alt="metrics" width="860"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vvinayakkk&theme=tokyonight&hide_border=true&card_width=860"/>
-
-</div>
+## 🐍 Contribution Activity
 
 <div align="center">
 
